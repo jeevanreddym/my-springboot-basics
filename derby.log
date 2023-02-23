@@ -5,7 +5,7 @@ on database directory memory:C:\Users\test\my-folder\Workspaces\demo\2e249575-62
 Loaded from jar:file:/C:/Users/test/my-folder/Workspaces/demo/target/demo-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
 java.vendor=Oracle Corporation
 java.runtime.version=11.0.14+8-LTS-263
-user.dir=C:\Users\test\my-folder\Workspaces\demo
+user.dir=C:\Users\test\my-folder\Workspaces\my-springboot-basics
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0

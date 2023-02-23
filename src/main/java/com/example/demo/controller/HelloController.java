@@ -10,4 +10,9 @@ public class HelloController {
     public String index() {
         return "Greetings from Spring Boot!";
     }
+
+    @GetMapping("/get/data")
+    public String getData() {
+        return "Version V2";
+    }
 }
